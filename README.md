@@ -23,4 +23,8 @@ indexes[] array should contain index values for the data, sequentially from 0 to
 
 indexes[i] = -1 for all the duplicate strings, original values otherwise
 
+You can generate sample small test files using the generate.py script as below:
+
+   python generate.py
+
 Follow the slides for more clarity and skype me for any concern.
