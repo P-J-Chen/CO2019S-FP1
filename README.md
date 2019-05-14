@@ -23,4 +23,4 @@ indexes[] array should contain index values for the data, sequentially from 0 to
 
 indexes[i] = -1 for all the duplicate strings, original values otherwise
 
-Follow the slides for more clarity and skype me for any more confusion.
+Follow the slides for more clarity and skype me for any concern.
