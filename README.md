@@ -1,6 +1,7 @@
 # CO2019S-FP1
 Steps:
 1. Clone the repository using below command:
+
    git clone https://github.com/amansinha-sw/CO2019S-FP1.git
 2. Download data files from the Google drive link below:
      
@@ -10,8 +11,10 @@ Steps:
    
    tar -xzvf data.tar.gz
 4. Compile using the below command:
+
    make
 5. Run using the below command:
+
    make run
 
 Implement the functions distinctStringSequential() and losSequential() as per your design and algorithm.
