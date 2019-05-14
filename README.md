@@ -5,7 +5,9 @@ Steps:
 2. Download data files from the Google drive link below:
      
 3. Extract the tar files using the below commands:
+
    tar -xzvf lengths.tar.gz
+   
    tar -xzvf data.tar.gz
 4. Compile using the below command:
    make
